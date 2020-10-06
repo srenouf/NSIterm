@@ -6,7 +6,7 @@
 
 ### Document de formation à Jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/srenouf/NSIterm/master?filepath=presentation.ipynb)
 
-### Environnement Jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/srenouf/NSIterm/master?urlpath=apps/environnement1.ipynb)
+### Environnement Jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/srenouf/NSIterm/master?urlpath=apps/environnement11.ipynb)
 
 
 ### Sommaire du cours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/srenouf/NSIterm/master?urlpath=apps/sommaire.ipynb)
